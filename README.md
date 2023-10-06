@@ -1,2 +1,2 @@
-# My-Projects
-These are projects I have either created myself or followed along in YouTube videos to learn more about coding
+# To Do list project
+This is a project I completed following a tutorial on youtube. 
