@@ -1,2 +1,2 @@
 # To Do list project
-This is a project I completed following a tutorial on youtube. 
+To Do List ! Keep track of everything you have to do. This is a project inspired by various videos on youtube.
